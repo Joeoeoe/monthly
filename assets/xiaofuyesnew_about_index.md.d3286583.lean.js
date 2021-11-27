@@ -1,0 +1,1 @@
+import{_ as a,c as o,o as e,e as t}from"./app.3013e2e6.js";const b='{"title":"About xiaofuyesnew","description":"","frontmatter":{},"relativePath":"xiaofuyesnew/about/index.md","lastUpdated":1638010406550}',l={},s=t('',5),f=[s];function i(g,m,p,d,r,c){return e(),o("div",null,f)}var n=a(l,[["render",i],["__scopeId","data-v-19e04ef3"]]);export{b as __pageData,n as default};
